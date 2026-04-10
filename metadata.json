@@ -1,0 +1,5 @@
+{
+  "name": "Lähihylky",
+  "description": "Hae ja tutki hylkyjä hylyt.net tietokannasta etäisyyden ja syvyyden perusteella.",
+  "requestFramePermissions": ["geolocation"]
+}
